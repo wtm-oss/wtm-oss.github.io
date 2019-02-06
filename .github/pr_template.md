@@ -1,7 +1,7 @@
 <!-- Don't delete anything without explicit instructions from a maintainer. -->
 
 <!-- Check by changing each `[ ]` to `[x]`. Please take note of the whitespace as it matters. -->
-- [ ] Read and understood community guidelines(https://github.com/wtm-oss/wtm-oss.github.io#community-guidelines)
+- [ ] Read and understood [community guidelines](https://github.com/wtm-oss/wtm-oss.github.io#community-guidelines)
 - [ ] Included a preview link and screenshot showing after and before the changes.
 - [ ] Included a description of change below.
 - [ ] Tried to [squash the commits][squash].
