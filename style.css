@@ -1,3 +1,18 @@
 body{
        
 }
+
+nav{
+    border-radius: 0px;
+}
+
+.slider-img{
+    width: 100%;
+    height: 100%;
+    height:100vh; /* 100% vertical hieght */
+
+}
+
+.slider-div{
+       height:100vh;
+}
