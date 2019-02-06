@@ -4,7 +4,7 @@
 - [ ] Read and understood [community guidelines](https://github.com/wtm-oss/wtm-oss.github.io#community-guidelines)
 - [ ] Included a preview link and screenshot showing after and before the changes.
 - [ ] Included a description of change below.
-- [ ] Tried to [squash the commits][squash].
+- [ ] Tried to [squash the commits][Guide on how to squash commits].
 
 ### Changes done in this Pull Request
 
