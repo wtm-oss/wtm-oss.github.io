@@ -23,9 +23,8 @@ If you have not fixed some issue(s) completely but only some of the step(s) in i
 <!-- Please summarize the solution you chose.
      Mention the files changed. Add what changes you have done. -->
 
-### Screenshots,Path to Tile
-<!--Please include way to your tile (like up, up, down, left ...) or  include a screenshot indicating the location of the change made in the game. i.e. location of new tile, or place where the bug was, or place where the changes are reflected -->
+### Screenshots
+<!-- If any UI changes have been made, please include the screenshots -->
 
 
-
-[squash]: https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git
+[Guide on how to squash commits]: https://stackoverflow.com/questions/5189560/squash-my-last-x-commits-together-using-git
