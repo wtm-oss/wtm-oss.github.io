@@ -1,37 +1,6 @@
-body{
-    font-family: 'Roboto';
-    color: black;
-}
-
-
-nav{
-    border-radius: 0px;
-    padding-bottom: 2px;
-}
-.active-1{
-    border-bottom: 3px solid #673AB7;
-    color: #673AB7;
-}
-.pageOne{
-    height: 100vh;
-    padding-top: 200px;;
-}
-.btn-primary{
-    background: -webkit-linear-gradient(to top, #8e2de2, #4a00e0);
-    background: linear-gradient(to top, #8e2de2, #4a00e0);
-}
 .gred-font{
     color: -webkit-linear-gradient(to top, #8e2de2, #4a00e0);
     color: linear-gradient(to top, #8e2de2, #4a00e0);
-}
-.logo{
-    padding-top:0%;
-
-    margin-top: 0;
-    height: 40px;
-}
-.navbar-brand{
-    padding-top: 5px;
 }
 
 .slider-img{
@@ -51,25 +20,12 @@ nav{
  border-bottom-right-radius: 50px;
 }
 
-.purple-div{
-    background: #8e2de2;
-    background: -webkit-linear-gradient(to top, #8e2de2, #4a00e0);
-    background: linear-gradient(to top, #8e2de2, #4a00e0);
-    color: white;
-    padding-left:10%;
-    padding-right:10%;
-}
 
 
 /* purple gredient  for future use
 background: #8e2de2; /* fallback for old browsers
 background: -webkit-linear-gradient(to top, #8e2de2, #4a00e0); /* Chrome 10-25, Safari 5.1-6
 background: linear-gradient(to top, #8e2de2, #4a00e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-.statistics-element{
-    display: flex;
-    justify-content: center;
-    font-size: 60px;
-}
 
 .card-img-top{
 
@@ -79,14 +35,6 @@ background: linear-gradient(to top, #8e2de2, #4a00e0); /* W3C, IE 10+/ Edge, Fir
   border-radius: 20%;
 }
 
-.speaker-card{
-  width:80%;
-  margin: 5%;
-  margin-left: 20%;
-  padding: 2%;
-  box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
-
-}
 .card-body{
   padding: 10%  ;
 }
@@ -94,7 +42,4 @@ background: linear-gradient(to top, #8e2de2, #4a00e0); /* W3C, IE 10+/ Edge, Fir
   padding: 50%;
 }
 
-.row{
-  margin: 15%;
-  margin-top: 5%;
-}
+
