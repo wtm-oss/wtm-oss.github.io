@@ -7,3 +7,6 @@ body{
     background: -webkit-linear-gradient(to top, #8e2de2, #4a00e0);
     background: linear-gradient(to top, #8e2de2, #4a00e0);
 }
+footer{
+    margin-top:10px;
+}
