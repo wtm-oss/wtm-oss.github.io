@@ -7,7 +7,7 @@
     background: #8e2de2;
     background: -webkit-linear-gradient(to top, #8e2de2, #4a00e0);
     background: linear-gradient(to top, #8e2de2, #4a00e0);
-    color: white;
+    color: white ;
     padding-left:10%;
     padding-right:10%;
 }
@@ -29,5 +29,10 @@
   
   .meetup-card:hover {
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+  }
+
+  p{
+      font-size: 15px;
+      text-align: justify;
   }
   
