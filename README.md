@@ -15,7 +15,7 @@ The following is a set of guidelines for contributing to the official website of
 
 - Basics of Frontend Web Development (HTML, CSS)
 - Javascript
-- Bootstrap 4.0+ 
+- Bootstrap 3.4 
 
 ## How can I contribute? 
 
