@@ -45,12 +45,11 @@
   }
   
   #lab_social_icon_footer #social-gp:hover {
-    color: #d34836;
+    color: red;
   }
   
-  #lab_social_icon_footer #social-em:hover {
-    color: #f39c12;
-  }
+
   .footer-text{
       color:white;
   }
+  
