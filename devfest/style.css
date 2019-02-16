@@ -1,3 +1,37 @@
 body{
-    
+    /* margin-top: 70px; */
+}
+
+h1{
+    margin: 100px;
+    font-weight: bold;
+    display: inline-block;
+    padding-bottom: 7px;
+    position: relative;
+}
+
+h1:before{
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 1px;
+    bottom: 0;
+    left: 25%;
+    border-bottom: 2px solid purple;
+}
+p{
+   font-size: 17px;
+}
+
+.g{
+    font-weight: bold;
+    font-size: 2em;
+}
+hr{
+color: purple;
+}
+.stat{
+    display: flex;
+    justify-content: center;
+    font-size: 40px;
 }

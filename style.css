@@ -3,9 +3,6 @@
     color: linear-gradient(to top, #8e2de2, #4a00e0);
 }
 
-
-
-
   /* footer-classes */
   #lab_social_icon_footer {
     padding: 40px 0;
@@ -53,3 +50,6 @@
       color:white;
   }
   
+  i{
+    color: white;
+  }
