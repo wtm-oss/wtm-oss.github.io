@@ -1,100 +1,55 @@
-body{
-    font-family: 'Roboto';
-    color: black;
-}
-
-
-nav{
-    border-radius: 0px;
-    padding-bottom: 2px;
-}
-.active-1{
-    border-bottom: 3px solid #673AB7;
-    color: #673AB7;
-}
-.pageOne{
-    height: 100vh;
-    padding-top: 200px;;
-}
-.btn-primary{
-    background: -webkit-linear-gradient(to top, #8e2de2, #4a00e0);
-    background: linear-gradient(to top, #8e2de2, #4a00e0);
-}
 .gred-font{
     color: -webkit-linear-gradient(to top, #8e2de2, #4a00e0);
     color: linear-gradient(to top, #8e2de2, #4a00e0);
 }
-.logo{
-    padding-top:0%;
 
-    margin-top: 0;
-    height: 40px;
-}
-.navbar-brand{
-    padding-top: 5px;
-}
+  /* footer-classes */
+  #lab_social_icon_footer {
+    padding: 40px 0;
+    background-color:#13191E;
+  }
+  
+  #lab_social_icon_footer a {
+    color: #333;
+  }
+  
+  #lab_social_icon_footer .social:hover {
+    -webkit-transform: scale(1.1);
+    -moz-transform: scale(1.1);
+    -o-transform: scale(1.1);
+  }
+  
+  #lab_social_icon_footer .social {
+    -webkit-transform: scale(0.8);
+    /* Browser Variations: */
+    
+    -moz-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-transition-duration: 0.5s;
+    -moz-transition-duration: 0.5s;
+    -o-transition-duration: 0.5s;
+  }
+  /*
+      Multicoloured Hover Variations
+  */
+  
+  #lab_social_icon_footer #social-fb:hover {
+    color: #3B5998;
+  }
+  
+  #lab_social_icon_footer #social-tw:hover {
+    color: #4099FF;
+  }
+  
+  #lab_social_icon_footer #social-gp:hover {
+    color: red;
+  }
+  
 
-.slider-img{
-    width: 100%;
-    height: 100%;
-    height:100vh; /* 100% vertical hieght */
-}
-.slider-div{
-       height:100vh;
-}
-.card{
- background-color: aliceblue;
- margin: 5%;
- margin-top: 0%;
- padding: 5%;
- border-radius: 5px;
- border-bottom-right-radius: 50px;
-}
-
-.purple-div{
-    background: #8e2de2;
-    background: -webkit-linear-gradient(to top, #8e2de2, #4a00e0);
-    background: linear-gradient(to top, #8e2de2, #4a00e0);
+  .footer-text{
+      color:white;
+  }
+  
+  i{
     color: white;
-    padding-left:10%;
-    padding-right:10%;
-}
-
-
-/* purple gredient  for future use
-background: #8e2de2; /* fallback for old browsers
-background: -webkit-linear-gradient(to top, #8e2de2, #4a00e0); /* Chrome 10-25, Safari 5.1-6
-background: linear-gradient(to top, #8e2de2, #4a00e0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-.statistics-element{
-    display: flex;
-    justify-content: center;
-    font-size: 60px;
-}
-
-.card-img-top{
-
-  width: 70%;
-  margin-left: 20%;
-  margin-right: 10%;
-  border-radius: 20%;
-}
-
-.speaker-card{
-  width:80%;
-  margin: 5%;
-  margin-left: 20%;
-  padding: 2%;
-  box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
-
-}
-.card-body{
-  padding: 10%  ;
-}
-.speaker-td{
-  padding: 50%;
-}
-
-.row{
-  margin: 15%;
-  margin-top: 5%;
-}
+  }
