@@ -1,0 +1,53 @@
+.row{
+  margin-left: 50px;
+}
+
+.coll{
+  margin-bottom: 50px;
+}
+.card {
+  transition: 0.5s;
+  width: 50%;
+  min-width: 80%;
+  min-height: 80%;
+}
+h1{
+  margin: 100px;
+  font-weight: bold;
+  display: inline-block;
+  padding-bottom: 7px;
+  position: relative;
+}
+h1:before{
+    content: "";
+    position: absolute;
+    width: 50%;
+    height: 1px;
+    bottom: 0;
+    left: 25%;
+    border-bottom: 2px solid purple;
+}
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+.container {
+  padding: 2px 16px;
+}
+.profile-image{
+  border-radius: 50%;
+  padding: 10px;
+}
+.social{
+  margin:2px;
+}
+.social-icons{
+  font-size: 20px;
+}
+.social-icons:hover{
+  color: black;
+}
+.ham{
+  color:purple;
+}
+ 
