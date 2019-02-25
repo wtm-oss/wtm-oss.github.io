@@ -1,9 +1,14 @@
-.row{
+.card-row{
   margin-left: 50px;
 }
 
+.row
+{
+  margin: 0% !important; 
+}
 .coll{
   margin-bottom: 50px;
+  padding: 0% !important; 
 }
 .card {
   transition: 0.5s;
@@ -50,4 +55,8 @@ h1:before{
 .ham{
   color:purple;
 }
- 
+.contributers-card{
+  
+  height: 200px;
+  padding: 10px;
+}
